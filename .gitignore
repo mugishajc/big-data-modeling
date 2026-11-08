@@ -1,4 +1,3 @@
-.env*
 !.env.example
 CLAUDE.md*
 TODAY.txt
@@ -10,3 +9,5 @@ slides/spark/pyspark/pyspark_and_LLM/MP_no_git_save/
 
 # marimo session caches (created by marimo edit/run/export, in any folder)
 __marimo__/
+config.bat
+node_modules
